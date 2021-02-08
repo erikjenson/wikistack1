@@ -12,7 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "html-template-tag": "^3.2.0",
-    "marked": "^1.1.1",
+    "marked": "^2.0.0",
     "morgan": "^1.10.0",
     "pg": "^8.3.0",
     "pg-hstore": "^2.3.3",
